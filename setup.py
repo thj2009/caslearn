@@ -8,7 +8,7 @@ setup(name='caslearn',
       url='',
       packages=find_packages(),
       install_requires=[
-        'python>= 3.7',
+        'scipy',
         'numpy',
         'casadi>= 3.4.2'
       ]
